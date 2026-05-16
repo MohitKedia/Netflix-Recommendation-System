@@ -1,5 +1,5 @@
 # 🎬 Netflix Movie Recommendation System
-
+Built a Netflix-style Movie Recommendation System using Collaborative Filtering and Cosine Similarity on MovieLens dataset. Performed EDA, data preprocessing, similarity matrix generation, and personalized movie recommendations using Python and Scikit-learn.
 ## 📌 Project Overview
 This project builds a Netflix-style movie recommendation system using Collaborative Filtering.
 
