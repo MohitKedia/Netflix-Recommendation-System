@@ -1,0 +1,63 @@
+# Brief Explanation of the Project :
+
+Netflix Movie Recommendation System using Collaborative Filtering
+1. Business Problem
+
+Streaming platforms like Netflix have thousands of movies and TV shows. Users often struggle to find relevant content, leading to:
+
+Lower user engagement
+Reduced watch time
+Higher subscription churn
+Poor customer experience
+
+A recommendation system helps users discover movies they are likely to enjoy based on:
+
+Past viewing/rating behavior
+Similar users’ preferences
+Similar movie patterns
+2. Business Objective
+
+The objective of this project is to build a Movie Recommendation System using Collaborative Filtering that can:
+
+Recommend movies personalized to each user
+Improve customer engagement
+Increase watch time
+Enhance user satisfaction
+Reduce churn rate
+3. Machine Learning Approach
+
+We will use:
+
+Collaborative Filtering
+
+Collaborative filtering recommends movies based on:
+
+User-user similarity
+Item-item similarity
+Matrix factorization concepts
+Two Main Types
+Type	Meaning
+User-Based CF	Similar users like similar movies
+Item-Based CF	Similar movies are liked together
+
+This project uses:
+
+Item-Based Collaborative Filtering
+4. Dataset
+
+We will use the popular:
+
+MovieLens Dataset
+
+Contains:
+
+User IDs
+Movie IDs
+Ratings
+Movie titles
+Genres
+
+Dataset source:
+MovieLens Dataset
+
+
