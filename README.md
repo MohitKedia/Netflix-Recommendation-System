@@ -28,7 +28,6 @@ MovieLens Dataset
 ✅ User-Movie Matrix  
 ✅ Cosine Similarity  
 ✅ Recommendation Engine  
-✅ Streamlit Deployment  
 
 ---
 
